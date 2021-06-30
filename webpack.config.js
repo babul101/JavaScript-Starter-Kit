@@ -8,8 +8,10 @@ module.exports = {
   },
   devServer: {
     contentBase: path.resolve(__dirname, 'dist'),
+    watchContentBase:true,
     publicPath: '/assets/'
   },
+  devtool: "source-map",
   module: {
     rules: [{
       test: /\.js$/,
