@@ -1,7 +1,7 @@
 {
-  "name": "chapter_19",
+  "name": "JavaScript Starter Kit",
   "version": "1.0.0",
-  "description": "",
+  "description": "Boilerplate for modern web app",
   "main": "index.js",
   "scripts": {
     "build": "node_modules/.bin/webpack --mode production",
