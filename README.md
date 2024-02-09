@@ -49,15 +49,3 @@ You can run these scripts using npm:
 npm run build
 npm run serve
 
-Dependencies
-This starter kit includes the following devDependencies:
-
-@babel/cli: Babel command line interface.
-@babel/core: Babel core functionality.
-@babel/preset-env: Babel preset for compiling modern JavaScript to a compatible version.
-babel-loader: Webpack loader for transpiling JavaScript using Babel.
-webpack: Module bundler for JavaScript applications.
-webpack-cli: Command line interface for webpack.
-webpack-dev-server: Development server with live reloading capabilities.
-License
-This project is licensed under the ISC License. Feel free to use and modify it according to your needs. See the LICENSE file for details.
